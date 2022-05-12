@@ -1,39 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Егина Ангелина
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Мои интересы включают в себя изучение иностранных языков, спорт и машины.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ежедневные тренеровки с утра на свежем воздухе (пробежка, гимнастика)
+  - Лингвистика
+  - Информация о спортсменах и их образе жизни
+  - Спортивные машины и их модели, работа их двигателей.
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Первый курс
+    - institution: Российский университет дружбы народов 
+    - year: 2021
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,14 +60,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sportathlet@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Егина Ангелина - студентка первого курса, направления бизнес - информатики. Обучаюсь на данный момент в РУДН. Пытаюсь понять все предметы данного направления, и закравать всё на хорошие оценки. Являюсь мастером спорта по легкой атлетике и синхронному плаванию. Пытаюсь совмещать спорт и учёбу. Стараюсь находить время на все соревнования. Проживаю в данный момент в общежитии от нашего университета. Машинами начала увлекаться в 7 классе. До 10 класса по долгу могла находиться в гараже вместе с папой и дедушкой. Мы чинили автомобили после аварий. Раньше была мечта открыть свой автосервис. Так же я обожаю изучать немецкий язык. На все мои увлечения у меня есть цели, которые я постепенно начинаю реализовывать. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
